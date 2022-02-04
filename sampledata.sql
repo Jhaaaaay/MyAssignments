@@ -1,4 +1,3 @@
-SELECT * FROM CATEGORY_TABLE
 ---insert into admin table
 INSERT INTO ADMIN_TABLE (EMAIL, PASS) VALUES ('joyboy@yahoo.com', '00000020');
 INSERT INTO ADMIN_TABLE (EMAIL, PASS) VALUES ('luffy@yahoo.com', '2134556');
